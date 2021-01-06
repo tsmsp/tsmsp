@@ -1,6 +1,9 @@
 
 
 
+<img align='left' src='https://github.com/tsmsp/tsmsp/blob/main/github-profile-tsm.png'>
+
+
 ![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark)
 
 
