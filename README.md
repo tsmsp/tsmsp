@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&show_icons=true&theme=tokyonight)
+![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmsp&langs_count=8)](https://github.com/tsmsp/github-readme-stats)
 
