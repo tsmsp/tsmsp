@@ -1,11 +1,10 @@
-<h2> Hello welcome <<i>coders</i>></h2>
 
 
 
 ![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmsp&langs_count=8)](https://github.com/tsmsp/github-readme-stats)
+[![tsmsp wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
