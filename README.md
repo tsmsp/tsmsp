@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&hide=contribs,prs)
+![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&show_icons=true&theme=highcontrast)
 
 
 ## Tech Skills
