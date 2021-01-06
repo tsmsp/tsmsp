@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2> Hello welcome <<i>coders</i>></h2>
+
 
 
 ![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark)
@@ -8,7 +9,7 @@
 
 
 
-## - Tech Skills
+## Tech Skills
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
