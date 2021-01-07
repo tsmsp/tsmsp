@@ -10,6 +10,10 @@
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
 <p align="center">
+  
+   <td align="center">
+      <img align="left" src="https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark" />
+    </td>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark)](https://github.com/tsmsp/github-profile-trophy)
 
