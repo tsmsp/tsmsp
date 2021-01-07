@@ -14,10 +14,7 @@
 
 ![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsmsp&" alt="tsmsp" /></p>
-
-[![Top langauges used by Rabia](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmsp&show_icons=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsmsp&theme=onedark" alt="tsmsp" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
