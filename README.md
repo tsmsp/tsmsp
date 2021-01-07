@@ -6,9 +6,6 @@
 <br/>
 
 
-![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark)
-
-
 
 <!--[![tsmsp wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
 
@@ -20,6 +17,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsmsp" alt="tsmsp" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tsm_sp" target="blank"><img src="https://img.shields.io/twitter/follow/tsm_sp?logo=twitter&style=for-the-badge" alt="tsm_sp" /></a> </p>
+
+![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
