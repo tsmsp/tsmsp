@@ -10,10 +10,9 @@
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark)](https://github.com/tsmsp/github-profile-trophy)
 
 ![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark)](https://github.com/tsmsp/github-profile-trophy)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsmsp&" alt="tsmsp" /></p>
 
