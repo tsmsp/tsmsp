@@ -10,11 +10,22 @@
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
 
-<td align="center">
-  <a><img align="center" src="https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark" /></a>
-</td>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsmsp&theme=onedark" alt="tsmsp" /></p>
+<p align="center">
+
+   <td align="center">
+      <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark" alt="tsmsp"/></p>
+      <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark" alt="tsmsp"/></p>
+      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsmsp&theme=onedark" alt="tsmsp" /></p>
+   </td>
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark)](https://github.com/tsmsp/github-profile-trophy)-->
+
+<!--![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark)-->
+
+</p>
+
+
+
 
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark)](https://github.com/tsmsp/github-profile-trophy)-->
