@@ -4,7 +4,7 @@
 
 
 <img align='left' src='https://github.com/tsmsp/tsmsp/blob/main/github-profile-tsm.png'>
-</p>
+<br>
 
 <h1 align="center">Hi 👋, I'm Thiago Messias</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
@@ -15,6 +15,8 @@
 ![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsmsp&" alt="tsmsp" /></p>
+
+[![Top langauges used by Rabia](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmsp&show_icons=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
