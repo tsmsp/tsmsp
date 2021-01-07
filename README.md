@@ -4,7 +4,7 @@
 
 
 <img align='left' src='https://github.com/tsmsp/tsmsp/blob/main/github-profile-tsm.png'>
-<br>
+</p>
 
 <h1 align="center">Hi 👋, I'm Thiago Messias</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
