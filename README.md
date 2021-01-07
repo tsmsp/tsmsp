@@ -10,7 +10,6 @@
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsmsp&label=Profile%20views&color=0e75b6&style=flat" alt="tsmsp" /> </p>
 
 ![tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark)
 
@@ -28,7 +27,9 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/tsm_sp" target="blank"><img src="https://img.shields.io/twitter/follow/tsm_sp?logo=twitter&style=for-the-badge" alt="tsm_sp" /></a> </p>
+<p align="right"> <a href="https://twitter.com/tsm_sp" target="blank"><img src="https://img.shields.io/twitter/follow/tsm_sp?logo=twitter&style=for-the-badge" alt="tsm_sp" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsmsp&label=Profile%20views&color=0e75b6&style=flat" alt="tsmsp" /> </p>
 
 
 
