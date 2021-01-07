@@ -3,7 +3,7 @@
 
 
 
-<img align='left' src='https://github.com/tsmsp/tsmsp/blob/main/github-profile-tsm.png'>
+<p><img align='left' src='https://github.com/tsmsp/tsmsp/blob/main/github-profile-tsm.png'></p>
 <br>
 
 <h1 align="center">Hi 👋, I'm Thiago Messias</h1>
