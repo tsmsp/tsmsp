@@ -1,16 +1,14 @@
 
 
-<h1 align="center">Hi 👋, I'm Thiago Messias</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+
 
 
 <img align='left' src='https://github.com/tsmsp/tsmsp/blob/main/github-profile-tsm.png'>
-<br/>
-<br/>
+<br>
 
+<h1 align="center">Hi 👋, I'm Thiago Messias</h1>
+<h3 align="center">A passionate frontend developer from Brasil</h3>
 
-
-<!--[![tsmsp wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsmsp&label=Profile%20views&color=0e75b6&style=flat" alt="tsmsp" /> </p>
 
