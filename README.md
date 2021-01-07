@@ -21,6 +21,8 @@
 
 <p align="left"> <a href="https://twitter.com/tsm_sp" target="blank"><img src="https://img.shields.io/twitter/follow/tsm_sp?logo=twitter&style=for-the-badge" alt="tsm_sp" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,10 +38,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tsmsp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tsmsp" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsmsp&show_icons=true&locale=en&layout=compact" alt="tsmsp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsmsp&show_icons=true&locale=en" alt="tsmsp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsmsp&" alt="tsmsp" /></p>
 
