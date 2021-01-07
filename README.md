@@ -12,7 +12,7 @@
 <p align="center">
   
    <td align="center">
-      <img align="left" src="https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark" />
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark" />
     </td>
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark)](https://github.com/tsmsp/github-profile-trophy)-->
