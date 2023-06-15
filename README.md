@@ -13,7 +13,7 @@
 <p align="center">
 
    <td align="center">
-      <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=tsmsp&theme=dark_dimmed" alt="tsmsp"/></p>
+      <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=tsmsp&theme=tokyonight" alt="tsmsp"/></p>
       <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=juicyfresh" alt="tsmsp"/></p>
       <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsmsp&theme=dark_dimmed" alt="tsmsp" /></p>
    </td>
