@@ -13,12 +13,12 @@
 <p align="center">
 
    <td align="center">
-      <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=tsmsp&theme=juicyfresh" alt="tsmsp"/></p>
+      <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=tsmsp&theme=dark_dimmed" alt="tsmsp"/></p>
       <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=juicyfresh" alt="tsmsp"/></p>
-      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsmsp&theme=juicyfresh" alt="tsmsp" /></p>
+      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsmsp&theme=dark_dimmed" alt="tsmsp" /></p>
    </td>
    
-   https://github-profile-trophy.vercel.app/?username=tsmsp-frame=true
+
    <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tsmsp&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark)](https://github.com/tsmsp/github-profile-trophy)-->
