@@ -13,7 +13,7 @@
 <p align="center">
 
    <td align="center">
-      <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=tsmsp&theme=dracula-ma&row=2&column=4" alt="tsmsp"/></p>
+      <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=tsmsp&theme=dracula-ma&row=3&column=4" alt="tsmsp"/></p>
       <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=dracula" alt="tsmsp"/></p>
       <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsmsp&theme=dracula" alt="tsmsp" /></p>
    </td>
