@@ -1,8 +1,5 @@
 
 
-
-
-
 <p><img align="center" align='left' src='https://github.com/tsmsp/tsmsp/blob/main/github-profile-tsm.png' alt="tsmsp" /></p>
 <br>
 
@@ -19,10 +16,18 @@
  <img align="center" src="https://github-readme.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/>
          </p>-->
 
+
    </td>
+
+ 
+   <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tsmsp&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
+
    
 
-   <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tsmsp&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
 
    <!--[![trophy](https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark)](https://github.com/tsmsp/github-profile-trophy)-->
 
