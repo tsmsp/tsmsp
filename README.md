@@ -46,7 +46,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
 <a href="#" target="_blank">
-   <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" width="auto" height="50" alt="NextJS" />
+   <img src="https://raw.githubusercontent.com/showC0de-proFile/logos/main/nextjs-boilerplate-logo.webp" width="auto" height="50" alt="NextJS" />
 </a>
 
 <a href="#" target="_blank" style="margin-top:80;">
