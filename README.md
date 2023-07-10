@@ -10,7 +10,7 @@
    <td align="center">
       <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=tsmsp&theme=dracula" alt="tsmsp"/></p>
       <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=dracula" alt="tsmsp"/></p>
-      <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsmsp&layout=compact&theme=dracula&langs_count=10"/></p>
+      <!--<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsmsp&layout=compact&theme=dracula&langs_count=10"/></p>-->
       
       
    </td>
@@ -25,7 +25,7 @@
    
 
 
-   <!--[![trophy](https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark)](https://github.com/tsmsp/github-profile-trophy)-->
+   [![trophy](https://github-profile-trophy.vercel.app/?username=tsmsp&theme=onedark)](https://github.com/tsmsp/github-profile-trophy)
 
    <!--[tsmsp github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark)-->
 
