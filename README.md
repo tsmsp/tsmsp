@@ -18,7 +18,8 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=tsmsp&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
-</p>
+
+   </p>
 
    
 
@@ -75,8 +76,6 @@
    <img src="https://raw.githubusercontent.com/showC0de-proFile/logos/main/styledcomponent.svg" width="auto" height="40" alt="Styled component" />
 </a>
 
-
-   
 </p>
 
 <h3 align="center">Support:</h3>
