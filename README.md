@@ -45,6 +45,7 @@
    <a href="#" target="_blank" style="margin-top:80px;">
    <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" width="auto" height="80" alt="NextJS" />
 </a>
+</p>
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/tsmsp"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tsmsp" /></a></p>
