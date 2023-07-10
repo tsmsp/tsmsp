@@ -55,6 +55,11 @@
 </a>
 
 
+<a href="#" target="_blank" style="margin-top:80;">
+   <img src="https://raw.githubusercontent.com/showC0de-proFile/logos/main/styledcomponent.svg" width="auto" height="40" alt="Styled component" />
+</a>
+
+
    
 </p>
 
