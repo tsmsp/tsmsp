@@ -47,7 +47,7 @@
 </a>
 
 <a href="#" target="_blank" style="margin-top:80;">
-   <img src="[https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg](https://www.vectorlogo.zone/util/preview.html?image=/logos/expoio/expoio-ar21.svg)" width="auto" height="80" alt="Expo" />
+   <img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" width="auto" height="80" alt="Expo" />
 </a>
 
    
