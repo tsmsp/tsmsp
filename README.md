@@ -4,19 +4,11 @@
 <h1 align="center">Hi 👋, I'm Thiago Messias</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-
 <p align="center">
-
    <td align="center">
    <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=tsmsp&theme=dracula" alt="tsmsp"/></p>
-   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=dracula" alt="tsmsp"/></p>
-      
-   <!--<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsmsp&layout=compact&theme=dracula&langs_count=10"/>--></p>
-      
-      
+   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=dracula" alt="tsmsp"/></p>   <!--<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsmsp&layout=compact&theme=dracula&langs_count=10"/>--></p>
    </td>
-
- 
    <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=tsmsp&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
