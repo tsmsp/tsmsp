@@ -1,8 +1,7 @@
 <p><img align="center" align='left' src='https://github.com/tsmsp/tsmsp/blob/main/banner-tsm-git.png' alt="tsmsp" /></p>
 <br>
 
-<h1 align="center">Hi 👋, I'm Thiago Messias</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<!--<h1 align="center">Hi 👋, I'm Thiago Messias</h1>-->
 
 <p align="center">
    <td align="center">
